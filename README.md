@@ -30,6 +30,11 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
     - 1. Profile.json
     - 2. Portfolio.json
     - 3. transcript.json (I got it from udacity)
+    
+ ## Links for project :
+- **Code for this project is present** [here](https://github.com/SaadAlotaibi990/capstone/blob/main/Starbucks_Capstone_notebook.ipynb)
+     - https://github.com/Swatichanchal/Starbucks-Capstone-Project/blob/master/Starbucks_Capstone_notebook.ipynb
+
 
 ## Licensing, Authors, Acknowledgements .
 Data for coding project was provided by Udacity.
