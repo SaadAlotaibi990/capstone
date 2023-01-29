@@ -1,5 +1,4 @@
-# Udacity Data Scientist Capstone Project - Starbucks-Capstone-Project
-This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
+# Udacity Data Scientist Nanodegree Capstone Project - Starbucks-Capstone-Project
 
 ## Project Overview :
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
@@ -19,19 +18,18 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 - matplotlib
 - seaborn
 - sklearn.model_selection (train_test_split module)
-- sklearn.preprocessing (StandardScaler)
+- sklearn.preprocessing (StandardScaler )
 - tensorflow
 - keras 
 
 ## File Descriptions
-This repo contains 4 files. 
+4 files. 
 - `Starbucks_Capstone_notebook.ipynb` : the code notebook .
 -  `Capstone-Project-Report.pdf` : my project report .
 -   `Data` :
     - 1. Profile.json
     - 2. Portfolio.json
-    - 3. transcript.json : kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-data) ,  I can't upload this file here because it's size exceed the github condition.
-
+    - 3. transcript.json (I got it from udacity)
 
 ## Licensing, Authors, Acknowledgements .
 Data for coding project was provided by Udacity.
