@@ -33,6 +33,7 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
     
  ## Links for project :
 - **Code for this project is present** [here](https://github.com/SaadAlotaibi990/capstone/blob/main/Starbucks_Capstone_notebook.ipynb)
+- **Link for the Blog post on medium** [here](https://medium.com/@saadAIotaibi/data-scientist-capstone-project-b994b21bd279)
 
 ## Licensing, Authors, Acknowledgements .
 Data for coding project was provided by Udacity.
